@@ -144,4 +144,4 @@ QQ 频道: https://pd.qq.com/s/365esodk3
 - [flutter_meedu_videoplayer](https://github.com/zezo357/flutter_meedu_videoplayer)
 - [media-kit](https://github.com/media-kit/media-kit)
 - [dio](https://pub.dev/packages/dio)
-- 等等
+- 等等1
